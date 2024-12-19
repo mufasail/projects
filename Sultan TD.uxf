@@ -1,0 +1,362 @@
+<diagram program="umletino" version="15.1"><zoom_level>11</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLFrame</id><coordinates><x>253</x><y>76</y><w>792</w><h>858</h></coordinates><panel_attributes>td Shopping Online</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>275</x><y>703</y><w>715</w><h>187</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>418</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>462</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>506</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>594</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>638</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>682</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>726</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Text</id><coordinates><x>418</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("0", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>462</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("1", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>506</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("2", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>550</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("3", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>594</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("4", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>638</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("5", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>682</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("6", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>726</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("7", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>770</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("8", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>275</x><y>890</y><w>99</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Minutes", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>275</x><y>582</y><w>715</w><h>121</h></coordinates><panel_attributes>halign=left
+L  P
+o  a
+g  g
+i   e
+n   
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>275</x><y>417</y><w>715</w><h>165</h></coordinates><panel_attributes>halign=left
+B  I
+r  n
+o  t
+w e
+s  r
+e  f
+    a
+    c
+    e
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>308</x><y>780</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("using", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>319</x><y>505</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("idle", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>319</x><y>670</y><w>44</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("idle", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>814</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("9", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>286</x><y>747</y><w>33</w><h>132</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("U", 0, 10 , left) 
+drawText("s", 0, 25, left) 
+drawText("e", 0, 40, left) 
+drawText("r", 0, 55, left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>308</x><y>846</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Entering", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>319</x><y>450</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Proccesing", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>319</x><y>626</y><w>88</w><h>33</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Proccesing", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>308</x><y>813</y><w>121</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Register", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>814</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Relation</id><coordinates><x>858</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Text</id><coordinates><x>858</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("10", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>275</x><y>285</y><w>715</w><h>132</h></coordinates><panel_attributes>halign=left
+D B
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLObject</id><coordinates><x>275</x><y>120</y><w>715</w><h>165</h></coordinates><panel_attributes>halign=left
+P  I
+u n
+r  t
+a e
+c r
+h f
+a a
+c c
+e e
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>418</x><y>736</y><w>550</w><h>143</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>480;10;450;40;90;40;90;70;50;70;50;110;10;110</additional_attributes></element><element><id>Relation</id><coordinates><x>418</x><y>615</y><w>517</w><h>88</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>450;60;100;60;90;10;50;10;40;60;10;60</additional_attributes></element><element><id>Text</id><coordinates><x>484</x><y>758</y><w>55</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Log In", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>572</x><y>791</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Browsing", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>484</x><y>604</y><w>110</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Confirming Login", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>407</x><y>604</y><w>77</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Registering", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>462</x><y>615</y><w>33</w><h>220</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;180</additional_attributes></element><element><id>Text</id><coordinates><x>429</x><y>791</y><w>77</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Registering", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>418</x><y>450</y><w>517</w><h>88</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>450;60;230;60;210;10;170;10;170;60;10;60</additional_attributes></element><element><id>Relation</id><coordinates><x>594</x><y>450</y><w>33</w><h>352</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;300</additional_attributes></element><element><id>Text</id><coordinates><x>561</x><y>428</y><w>110</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Searching", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>506</x><y>615</y><w>33</w><h>187</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;150</additional_attributes></element><element><id>Text</id><coordinates><x>638</x><y>439</y><w>110</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Displaying Results", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>638</x><y>450</y><w>33</w><h>352</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;300;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>616</x><y>747</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Viewing results", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>418</x><y>307</y><w>517</w><h>88</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>450;60;300;60;300;10;170;10;170;60;10;60</additional_attributes></element><element><id>Text</id><coordinates><x>319</x><y>307</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Proccesing", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>319</x><y>219</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("idle", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>594</x><y>307</y><w>33</w><h>176</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;140</additional_attributes></element><element><id>Text</id><coordinates><x>627</x><y>296</y><w>99</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Send Results",0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>506</x><y>318</y><w>99</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Query Product", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>638</x><y>307</y><w>33</w><h>176</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;140;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>649</x><y>791</y><w>121</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Selecting Products", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>682</x><y>164</y><w>33</w><h>638</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;560</additional_attributes></element><element><id>Text</id><coordinates><x>308</x><y>373</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("idle", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>396</x><y>164</y><w>539</w><h>88</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>470;60;430;60;430;10;270;10;270;60;10;60</additional_attributes></element><element><id>Text</id><coordinates><x>319</x><y>164</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Proccesing", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>308</x><y>747</y><w>88</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Leaving", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>902</x><y>868</y><w>33</w><h>55</h></coordinates><panel_attributes>lt=-</panel_attributes><additional_attributes>10;10;10;30</additional_attributes></element><element><id>Text</id><coordinates><x>902</x><y>901</y><w>22</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("11", width/2, 18, center) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>891</x><y>725</y><w>55</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Leaving", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>605</x><y>153</y><w>121</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("AddingProducts", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>704</x><y>186</y><w>121</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Query Price", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>726</x><y>164</y><w>33</w><h>176</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;140;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>737</x><y>164</y><w>55</w><h>176</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>30;10;10;140</additional_attributes></element><element><id>Text</id><coordinates><x>770</x><y>219</y><w>143</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Authorizing Purchase", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>770</x><y>164</y><w>33</w><h>638</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;560;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>737</x><y>747</y><w>132</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Confirming Purchase", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>814</x><y>164</y><w>33</w><h>638</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;560</additional_attributes></element><element><id>Text</id><coordinates><x>748</x><y>153</y><w>99</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Display Price", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>858</x><y>164</y><w>33</w><h>638</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;560;10;10</additional_attributes></element><element><id>Text</id><coordinates><x>836</x><y>153</y><w>143</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Sending Confirmation", 0,10,left) 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Text</id><coordinates><x>825</x><y>791</y><w>121</w><h>22</h></coordinates><panel_attributes>//Text Element
+_umletcode=
+// Parameters drawText(text, x, y, horizontal alignment)
+// Parameters drawLine(x1, y1, x2, y2) 
+// Helping lines are drawn for better understanding of the Text Positioning
+
+// " can be escaped by \ and \\ is converted to \
+drawText("Get Notification", 0,10,left) </panel_attributes><additional_attributes></additional_attributes></element></diagram>
